@@ -12,3 +12,24 @@ top: 30px;
     background-color: rgb(255, 255, 255);
 color: black;
 }
+.pics{
+    width: 240px;
+    height: 240px;
+    border: 2px solid red;
+}
+#cage{
+    background-image: url("https://th.bing.com/th/id/OIP.OBvrVLxI7L3bXXrDMKum_QHaE9?pid=ImgDet&rs=1");
+    width: 75vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+}
+#turtleHome{
+    background-image: url("https://www.thespruce.com/thmb/GWsMDYWd29ElbtFZqQa2wdC7uH4=/4948x3288/filters:fill(auto,1)/close-up-shot-of-granite-kitchen-counter-173226440-58b6384d3df78cdcd882759a.jpg");
+    width: 75vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+}
+
+
